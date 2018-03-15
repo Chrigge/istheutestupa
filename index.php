@@ -75,7 +75,7 @@ else {
 <p>Diese Seite saugt nur einen einzelnen Eintrag von der verlinkten Seite und hofft dann, dass sie das lesen kann. Ist richtig eklig zusammengehackt, und dann auch noch in PHP (ih!) - also geh bloß nicht von Richtigkeit aus!</p>
 </div>
 <div class="links">
-<a href="https://www.github.com"><img src="res/GitHub-Mark-Light-120px-plus.png" alt="GitHub" width="32" height="32" /></a>
+<a href="https://github.com/Chrigge/istheutestupa"><img src="res/GitHub-Mark-Light-120px-plus.png" alt="GitHub" width="32" height="32" /></a>
 <a href="https://www.facebook.com/schwartzrottkollabst/"><img src="res/schwarzrotkollabs.png" alt="Schwarz-Rot Kollabs" width="32" height="32"/></a>
 </div>
 <div class="impressum">
