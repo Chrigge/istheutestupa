@@ -30,7 +30,7 @@ function compareDate($d1, $d2)
 
 
 // Lade den Inhalt von der Stupa-Website
-$content = file_get_contents ("http://stupa.uni-goettingen.de/sitzungen/2018-19/");
+$content = file_get_contents ("http://stupa.uni-goettingen.de/sitzungen/legislatur-2019-20/");
 
 // Lege Start- und Endtextpositionen fest, zwischen denen das Datum (wahrscheinlich) steht
 $startstr = "<span class=\"su-spoiler-icon\"></span>";
@@ -71,7 +71,7 @@ else {
 </div>
 
 <div class="footer">
-<p><a href="http://stupa.uni-goettingen.de/sitzungen/2018-19/">Hier</a> kannst du nachgucken.</a></p>
+<p><a href="http://stupa.uni-goettingen.de/sitzungen/legislatur-2019-20/">Hier</a> kannst du nachgucken.</a></p>
 <p>Diese Seite saugt nur einen einzelnen Eintrag von der verlinkten Seite und hofft dann, dass sie das lesen kann. Ist richtig eklig zusammengehackt, und dann auch noch in PHP (ih!) - also geh bloß nicht von Richtigkeit aus!</p>
 </div>
 <div class="links">
